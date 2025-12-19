@@ -4,11 +4,13 @@
 なお、キーボード本体の購入方法やビルドガイドについては Kz様の[note記事](https://note.com/kazu_dob/n/n5ea06c3c5d62)をご覧ください。
 
 ## ケースデータのダウンロード、印刷について
-3Dプリンターをお持ちの方は[プリントガイド](docs/guide_print.md)を参考に印刷してみてください。
+3Dプリンターをお持ちの方は[プリントガイド](docs/guide_print.md)を参考に印刷してみてください。  
 ビルドガイドは[こちら](docs/guide_build.md)です。
 
 ## ケースの頒布について
-[booth](https://booth.pm/ja/items/6587448)で頒布しています。※Kz様から承諾を得て頒布しています。
+[BOOTH](https://booth.pm/ja/items/6587448)で頒布しています。  
+※Kz様から承諾を得て頒布しています。  
+
 ビルドガイドは[こちら](docs/guide_build.md)です。
 
 ### ケーススペック
